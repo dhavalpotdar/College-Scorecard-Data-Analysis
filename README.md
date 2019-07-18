@@ -33,10 +33,10 @@ The analysis is structured. In that, a question and answer format is followed th
 then using Python and its Data Processing libraries informative Visualizations and relevant Summary Statistics are generated
 that try to answer the question. Initially we will stick to answering questions about a single variable at a time, followed by two at a 
 time and finally broaden our perspective to  consider interaction between three or more variables.<br>
-The __IPython Notebook__ `college_scorecard_data_analysis.ipynb` can be downloaded from the repo 
-[here](https://github.com/dhavalpotdar/College-Scorecard-Data-Analysis/blob/master/college_scorecard_data_analysis.ipynb)
+The __IPython Notebook__ `index.ipynb` can be downloaded from the repo 
+[here](https://github.com/dhavalpotdar/College-Scorecard-Data-Analysis/blob/master/index.ipynb)
 or previewed in a rendered format 
-[here](https://nbviewer.jupyter.org/github/dhavalpotdar/College-Scorecard-Data-Analysis/blob/master/college_scorecard_data_analysis.ipynb). <br>
+[here](https://nbviewer.jupyter.org/github/dhavalpotdar/College-Scorecard-Data-Analysis/blob/master/index.ipynb). <br>
 A __Presentation__ on some of the major findings of the analysis can be viewed 
 [here](https://dhavalpotdar.github.io/College-Scorecard-Data-Analysis/).
 
